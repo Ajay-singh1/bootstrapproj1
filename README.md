@@ -18,7 +18,4 @@
 <br>
 
 
-<video width="560" height="315" controls>
-  <source src="https://github.com/user-attachments/assets/5b7ca0d0-82c1-466a-8066-cc7de291941c" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Bootstrap Project - Ajay Singh](https://github.com/user-attachments/assets/5b7ca0d0-82c1-466a-8066-cc7de291941c)
